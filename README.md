@@ -1,56 +1,27 @@
 # Syed Khalid Hussain Shah
 
-**Web Developer** focused on **PHP tools, automation, and business-driven web products**.
+**Full stack developer and founder of [XpertCreation](https://xpertcreation.com)** · Lahore, Pakistan · Microsoft Certified Professional
 
-I build practical digital solutions with a focus on usability, clean structure, and real-world value.  
-My work includes web tools, inventory systems, SEO utilities, automation ideas, and niche product platforms.
+I build and run web platforms end to end, from the database and the server to the page on your phone. My main project is XpertCreation, a free platform for learning, everyday tools and community.
 
-## Focus Areas
+### What I build
+- **XpertCreation** ([xpertcreation.com](https://xpertcreation.com)): free courses (Excel, VBA, Python, JavaScript, languages) with in-browser code runners and certificates, 70+ everyday tools, online chess and games, a professional network with endorsements, pet health records with QR tags, and Pakistani and Indian dramas and films
+- **PenFlow**: a community platform on Pi Network
+- **Business tools**: inventory systems, SEO utilities and automation
+- **WooCommerce plugins**: including Pi Network payments
 
-- PHP web tools
-- business and inventory systems
-- automation-focused products
-- SEO and utility tools
-- custom web platforms
+### Tech
+**Backend:** Python, Django, Django REST Framework, PHP, PostgreSQL, MySQL, Redis
+**Frontend:** JavaScript, React, HTML, CSS
+**Servers:** Ubuntu Linux, Nginx, Gunicorn, Cloudflare, SSL, systemd
+**Integrations:** payment gateways, Pi Network, REST APIs, TMDB
 
-## Tech Stack
+### Also
+- CFO and partner at Digital Bloomco LLC
+- Instructor on [Udemy](https://www.udemy.com/user/syed-khalid-hussain-shah/)
 
-**PHP · MySQL · JavaScript · HTML · CSS · Git · GitHub**
+### Read more
+- [XpertCreation user guide](https://xpertcreation.com/docs) · [source on GitHub](https://github.com/khalidxpert/xpertcreation-guide)
+- Website: [xpertcreation.com](https://xpertcreation.com)
 
-## Current Direction
-
-I’m focused on building better products, improving project quality, and growing a strong developer portfolio through real, useful work.
-
-## GitHub
-
-[@KhalidXpert](https://github.com/KhalidXpert)
-If you want it to look a little more polished, add this version instead:
-# Syed Khalid Hussain Shah
-
-**Web Developer** focused on **PHP tools, automation, and business-driven web products**.
-
-I enjoy turning ideas into practical web-based solutions.  
-My projects include utility tools, inventory systems, SEO tools, automation workflows, and niche digital platforms.
-
-## Focus Areas
-
-- Web tools
-- PHP development
-- Inventory systems
-- Automation ideas
-- Business-focused products
-
-## Tech Stack
-
-**PHP · MySQL · JavaScript · HTML · CSS · Git · GitHub**
-
-## Vision
-
-To build useful digital products that solve real problems and grow into strong online businesses.
-
-## GitHub
-
-[@KhalidXpert](https://github.com/KhalidXpert)
-My recommendation:
-•use the second one•it feels more like a real developer profile and less like a templateTo make it live:
-1.create a repository named KhalidXpert2.add a file named README.md
+📫 khalid@xpertcreation.com
